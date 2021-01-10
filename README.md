@@ -1,7 +1,7 @@
 # **Curvature-based Feature Selection with Application in Classifying Electronic Health Records**
-By [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)<sup>a,&#42;</sup>, [Jie Li](https://scholar.google.co.uk/citations?user=qiP4qZMAAAAJ&hl=en)<sup>b,&#42;</sup>, and [Noura Al Moubayed](https://scholar.google.co.uk/citations?user=GHecv14AAAAJ&hl=en)<sup>a,&dagger;</sup><br/>
-<sup>a</sup> Department of Computer Science, Durham University, Durham DH1 3LE, UK<br/>
-<sup>b</sup> School of Computing \& Digital Technologies, Teesside University, Middlesbrough TS3 6DR, UK<br/>
+By [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)<sup>1,&#42;</sup>, [Jie Li](https://scholar.google.co.uk/citations?user=qiP4qZMAAAAJ&hl=en)<sup>2,&#42;</sup>, and [Noura Al Moubayed](https://scholar.google.co.uk/citations?user=GHecv14AAAAJ&hl=en)<sup>1,&dagger;</sup><br/>
+<sup>1</sup> Department of Computer Science, Durham University, Durham DH1 3LE, UK<br/>
+<sup>2</sup> School of Computing \& Digital Technologies, Teesside University, Middlesbrough TS3 6DR, UK<br/>
 <sup>&#42;</sup> Equal contribution.<br/>
 <sup>&dagger;</sup> Corresponding author.
 
