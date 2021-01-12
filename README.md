@@ -1,3 +1,4 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/curvature-based-feature-selection-with/breast-cancer-detection-on-breast-cancer)](https://paperswithcode.com/sota/breast-cancer-detection-on-breast-cancer?p=curvature-based-feature-selection-with)
 # **Curvature-based Feature Selection with Application in Classifying Electronic Health Records**
 By [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)<sup>1,&#42;</sup>, [Jie Li](https://scholar.google.co.uk/citations?user=qiP4qZMAAAAJ&hl=en)<sup>2,&#42;</sup>, and [Noura Al Moubayed](https://scholar.google.co.uk/citations?user=GHecv14AAAAJ&hl=en)<sup>1,&dagger;</sup><br/>
 <sup>1</sup> Department of Computer Science, Durham University, Durham DH1 3LE, UK<br/>
