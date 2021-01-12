@@ -12,7 +12,7 @@ CFS is a simple yet efficient feature selection method, which perfroms based on 
 
 <img src = "./fig/CFS.png" width = "100%" alt = "Idea of our CFS">
 
-For more details, please refer our [paper](researchGateVersion).
+For more details, please refer our [paper](https://arxiv.org/pdf/2101.03581.pdf).
 
 ## _Contents_
 1. [Requirement](#requirement)
@@ -50,10 +50,10 @@ For performance comparisons that might be used in your ongoing research work, we
 ## _Citation_
 If you find CFS useful in your research, please consider citing:
 ```
-@article{Zuo2021Cfs,
-    Title = {Curvature-based Feature Selection with Application in Classifying Electronic Health Records},
-	Author = {Z. Zuo and J. Li and N. A. Moubayed},
-	Journal = {arXiv preprint},
-	Year = {2021}
+@article{Zuo2021cfs,
+    title = {Curvature-based Feature Selection with Application in Classifying Electronic Health Records},
+	author = {Z. Zuo and J. Li and N. A. Moubayed},
+	journal = {arXiv preprint arXiv:2101.03581},
+	year = {2021}
 }
 ```
