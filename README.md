@@ -49,7 +49,7 @@ For performance comparisons that might be used in your ongoing research work, we
 | CCRFDS   | CFS-TSK+   | 9                  | 7                   | 97.09             |
 | BCCDS    | CFS-TSK+   | 9                  | 7                   | 79.17             |
 | BTDS     | CFS-...    | 9                  | 7                   | 100.00            |
-| BCCDS    | CFS-BPNN   | 19                 | 15                  | 74.72             |
+| DRDDS    | CFS-BPNN   | 19                 | 15                  | 74.72             |
 > ... denotes that our CFS can be combined with multiple supervised classifiers to achieve the same classification performance.
 
 ## _Citation_
