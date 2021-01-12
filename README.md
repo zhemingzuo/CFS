@@ -50,7 +50,7 @@ For performance comparisons that might be used in your ongoing research work, we
 ## _Citation_
 If you find CFS useful in your research, please consider citing:
 ```
-@article{Zuo2021cfs,
+@article{zuo2021cfs,
 	title = {Curvature-based Feature Selection with Application in Classifying Electronic Health Records},
 	author = {Z. Zuo and J. Li and N. A. Moubayed},
 	journal = {arXiv preprint arXiv:2101.03581},
