@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/zhemingzuo/CFS.svg)](http://hits.dwyl.com/zhemingzuo/CFS)
-
 # **Curvature-based Feature Selection with Application in Classifying Electronic Health Records**
 By [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)<sup>1,&#42;</sup>, [Jie Li](https://scholar.google.co.uk/citations?user=qiP4qZMAAAAJ&hl=en)<sup>2,&#42;</sup>, and [Noura Al Moubayed](https://scholar.google.co.uk/citations?user=GHecv14AAAAJ&hl=en)<sup>1,&dagger;</sup><br/>
 <sup>1</sup> Department of Computer Science, Durham University, Durham DH1 3LE, UK<br/>
