@@ -39,11 +39,6 @@ and then run `demo_CFS.m`.
 ### _Performance_
 For performance comparisons that might be used in your ongoing research work, we list the peak performance of CFS on four health care datasets: [Cervical Cancer (Risk Factors) Data Set (CCRFDS)](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29), [Breast Cancer Coimbra Data Set (BCCDS)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra), [Breast Tissue Data Set (BTDS)](https://archive.ics.uci.edu/ml/datasets/Breast+Tissue), and [Diabetic Retinopathy Debrecen Data Set (DRDDS)](https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set).
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/curvature-based-feature-selection-with/breast-tissue-identification-on-breast-tissue)](https://paperswithcode.com/sota/breast-tissue-identification-on-breast-tissue?p=curvature-based-feature-selection-with)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/curvature-based-feature-selection-with/breast-cancer-detection-on-breast-cancer)](https://paperswithcode.com/sota/breast-cancer-detection-on-breast-cancer?p=curvature-based-feature-selection-with)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/curvature-based-feature-selection-with/diabetic-retinopathy-detection-on-diabetic)](https://paperswithcode.com/sota/diabetic-retinopathy-detection-on-diabetic?p=curvature-based-feature-selection-with)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/curvature-based-feature-selection-with/cervical-cancer-biopsy-identification-on)](https://paperswithcode.com/sota/cervical-cancer-biopsy-identification-on?p=curvature-based-feature-selection-with)
-
 | Data Set | Method     | Original Feat. Dim.| Selected Feat. Dim. | Top Mean Acc. (%) |
 | :---     | :---       | :---               | :---                | :---              |  
 | CCRFDS   | CFS-TSK+   | 9                  | 7                   | 97.09             |
