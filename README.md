@@ -39,7 +39,12 @@ Run our CFS method
 and then run `demo_CFS.m`.
 
 ### _Performance_
-For performance comparisons that might be used in your ongoing research work, we list the peak performance of CFS on four health care datasets: [Cervical Cancer (Risk Factors) Data Set (CCRFDS)](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29), [Breast Cancer Coimbra Data Set (BCCDS)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra), [Breast Tissue Data Set (BTDS)](https://archive.ics.uci.edu/ml/datasets/Breast+Tissue), and [Diabetic Retinopathy Debrecen Data Set (DRDDS)](https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set).
+For performance comparisons that might be used in your ongoing research work, we list the peak performance of CFS on four health care datasets: 
+
+- [Cervical Cancer (Risk Factors) Data Set (CCRFDS)](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29)
+- [Breast Cancer Coimbra Data Set (BCCDS)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra)
+- [Breast Tissue Data Set (BTDS)](https://archive.ics.uci.edu/ml/datasets/Breast+Tissue)
+- [Diabetic Retinopathy Debrecen Data Set (DRDDS)](https://archive.ics.uci.edu/ml/datasets/Diabetic+Retinopathy+Debrecen+Data+Set).
 
 | Data Set | Method     | Original Feat. Dim.| Selected Feat. Dim. | Top Mean Acc. (%) |
 | :---     | :---       | :---               | :---                | :---              |  
