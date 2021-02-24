@@ -39,7 +39,7 @@ Run our CFS method
 and then run `demo_CFS.m`.
 
 ### _Performance_
-For performance comparisons that might be used in your ongoing research work, we list the peak performance of CFS on four health care datasets: 
+For performance comparisons that might be used in your ongoing research work, we list the peak performance of CFS on four healthcare datasets: 
 
 - [Cervical Cancer (Risk Factors) Data Set (CCRFDS)](https://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29)
 - [Breast Cancer Coimbra Data Set (BCCDS)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Coimbra)
