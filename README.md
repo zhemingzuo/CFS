@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhemingzuo%2FCFS&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # **Curvature-based Feature Selection with Application in Classifying Electronic Health Records**
-By [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)<sup>1,&#42;</sup>, [Jie Li](https://scholar.google.co.uk/citations?user=qiP4qZMAAAAJ&hl=en)<sup>2,&#42;</sup>, Han Xu<sup>3,4</sup>, and [Noura Al Moubayed](https://scholar.google.co.uk/citations?user=GHecv14AAAAJ&hl=en)<sup>1,&dagger;</sup><br/>
+By [Zheming Zuo](https://scholar.google.co.uk/citations?user=jzpjf4UAAAAJ&hl=en)<sup>1,&#42;&dagger;</sup>, [Jie Li](https://scholar.google.co.uk/citations?user=qiP4qZMAAAAJ&hl=en)<sup>2,&#42;</sup>, Han Xu<sup>3,4</sup>, and [Noura Al Moubayed](https://scholar.google.co.uk/citations?user=GHecv14AAAAJ&hl=en)<sup>1</sup><br/>
 <sup>1</sup> Department of Computer Science, Durham University, Durham DH1 3LE, UK<br/>
 <sup>2</sup> School of Computing, Engineering \& Digital Technologies, Teesside University, Middlesbrough TS3 6DR, UK<br/>
 <sup>3</sup> Institute of Microelectronics, Chinese Academy of Sciences, Beijing 100029, China<br/>
@@ -51,18 +51,34 @@ For performance comparisons that might be used in your ongoing research work, we
 | Data Set | Method     | Original Feat. Dim.| Selected Feat. Dim. | Top Mean Acc. (%) |
 | :---     | :---       | :---               | :---                | :---              |  
 | CCRFDS   | CFS-TSK+   | 9                  | 7                   | 97.09             |
-| BCCDS    | CFS-TSK+   | 9                  | 7                   | 79.17             |
+| BCCDS    | CFS-TSK+   | 9                  | 7                   | 85.00             |
 | BTDS     | CFS-...    | 9                  | 7                   | 100.00            |
 | DRDDS    | CFS-BPNN   | 19                 | 15                  | 74.72             |
 > ... denotes that our CFS can be combined with multiple supervised classifiers to achieve the same classification performance.
 
 ## _Citation_
 If you find CFS useful in your research, please consider citing:
+
+ArXiv version:
 ```
 @article{zuo2021cfs,
 	title = {Curvature-based Feature Selection with Application in Classifying Electronic Health Records},
 	author = {Z. Zuo and J. Li and H. Xu and N. A. Moubayed},
 	journal = {arXiv preprint arXiv:2101.03581},
+	year = {2021}
+}
+```
+
+Journal version:
+```
+@article{zuo2021cfs,
+	title = {Curvature-based Feature Selection with Application in Classifying Electronic Health Records},
+	author = {Z. Zuo and J. Li and H. Xu and N. A. Moubayed},
+	journal = {Technological Forecasting and Social Change},
+	volume = {173},
+	pages = {121--127},
+	issn = {0040-1625},
+	doi = {https://doi.org/10.1016/j.techfore.2021.121127},
 	year = {2021}
 }
 ```
