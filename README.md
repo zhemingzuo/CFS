@@ -16,7 +16,7 @@ CFS is a simple yet efficient feature selection method, which perfroms based on 
 
 <img src = "./fig/CFS.png" width = "100%" alt = "Idea of our CFS">
 
-For more details, please refer our [paper](https://arxiv.org/pdf/2101.03581v2.pdf).
+For more details, please refer our [paper](https://arxiv.org/pdf/2101.03581.pdf).
 
 ## _Contents_
 1. [Requirement](#requirement)
